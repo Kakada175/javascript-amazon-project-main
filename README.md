@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-The **JavaScript Amazon Project** is a front-end web application inspired by the basic workflow of the Amazon e-commerce platform. The project demonstrates how an online shopping system works using **HTML, CSS, and Vanilla JavaScript** without any backend framework.
+The **JavaScript Amazon Project** is a front-end web application inspired by the basic workflow of the Amazon e-commerce platform. The project demonstrates how an online shopping system works using **HTML, CSS, and  JavaScript**.
 
 This project focuses on:
 
